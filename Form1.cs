@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace SistemaLogin
 {
     //Miguel Daniel Reyes Martinez
-    //Maynor Antonio Torres Hernandez
+   
 
     public partial class Form1 : Form
     {
